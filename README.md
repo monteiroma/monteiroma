@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou desenvolvedor FrontEnd residente de São Paulo, Brasil<br>Sou graduando no curso de Sistemas de Informação pela Universidade Anhembi Morumbi.<br><br>Estou atualmente aprimorando minhas habilidades em JavaScript.<br>Estou aprendendo ReactJS, SaSS e TypeScript com o objetivo de dominar essas tecnologias.</p>
+<p align="left">Sou desenvolvedor FrontEnd residente de São Paulo, Brasil<br>Sou graduando no curso de Sistemas de Informação pela Universidade Anhembi Morumbi.<br><br>Estou atualmente aprimorando minhas habilidades em JavaScript.<br>Nesse momento estou aprendendo ReactJS, SaSS e TypeScript com o objetivo de dominar essas tecnologias.</p>
 
 ###
 
