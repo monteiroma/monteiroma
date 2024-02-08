@@ -1,4 +1,4 @@
-<h1 align="left">Olá👋! Me chamo Matheus Augusto Monteiro</h1>
+<h1 align="left">Olá! Me chamo Matheus Augusto Monteiro</h1>
 
 ###
 
