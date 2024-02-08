@@ -1,4 +1,4 @@
-<h1 align="left">Olá! Me chamo Matheus Augusto Monteiro</h1>
+<h1 align="left">Olá👋! Me chamo Matheus Augusto Monteiro</h1>
 
 ###
 
@@ -15,9 +15,6 @@
   </a>
   <a href="https://www.instagram.com/monteirobjj/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="monteir0." target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
 
@@ -42,5 +39,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=monteiroma&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+###
 
+<img src="https://raw.githubusercontent.com/monteiroma/monteiroma/output/snake.svg" alt="Snake animation" />
 
+###
