@@ -30,7 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img src="https://icongr.am/devicon/react-original.svg?size=30&color=currentColor"  />
+  <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor"  height="30" alt="react logo" />
 </div>
 
 
