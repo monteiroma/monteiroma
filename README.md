@@ -26,16 +26,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"  height="30" alt="react logo" />
   <img width="12" />
   <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor"  height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"  height="30" alt="react logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" height="30" alt="vscode logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
 </div>
 
